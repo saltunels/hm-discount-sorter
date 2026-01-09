@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "H&M Discount Sorter",
+    "version": "1.0",
+    "description": "Sort H&M sale products by discount percentage",
+    "content_scripts": [
+      {
+        "matches": ["https://www2.hm.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
+  
