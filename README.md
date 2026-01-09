@@ -99,4 +99,5 @@ Built for fun, learning, and better e-commerce UX.
 
 
 ![Floating discount sort button](./button-screenshot.png)
+
 *Floating button added by the extension to manually sort products by highest discount percentage.*
